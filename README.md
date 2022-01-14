@@ -1,7 +1,7 @@
 - ## Oiiie, meu nome é Isaac Douglas, sou um aspirante da tecnologia!
 <div align="center">
   <a href="https://github.com/byazeez">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=byazeez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=byazeez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byazeez&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
