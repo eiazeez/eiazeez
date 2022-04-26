@@ -1,4 +1,4 @@
-- ## Oiiie, meu nome é Isaac Douglas, sou um aspirante da tecnologia!
+- ## Oiiie, meu nome é Isaac Douglas, mas pode me chamar de Azeez haha!
 <div align="center">
   <a href="https://github.com/eiazeez">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eiazeez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
