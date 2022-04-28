@@ -13,6 +13,8 @@
 </div>
 
 ##
+  
+<script src="https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js"></script>
 
 <div align="center">
   <a href="https://instagram.com/eiazeez" target="_blank">
