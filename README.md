@@ -14,7 +14,6 @@
 
 ##
   
-<script src="https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js">
   <div align="center">
   <a href="https://instagram.com/eiazeez" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -36,10 +35,7 @@
   </a>
   <a href="https://open.spotify.com/user/7cv27iu30ykxupb4nui2gl7d3?si=53900e9013684360">
     <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a>  
-  </script>
-
-
+  </a> 
 
 ![snake gif](https://github.com/eiazeez/eiazeez/blob/output/github-contribution-grid-snake.svg)
  
