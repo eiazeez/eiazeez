@@ -15,13 +15,27 @@
 ##
 
 <div align="center">
-  <a href="https://instagram.com/eiazeez" target="_blank" rel="noopener noreferrer" style="padding-left: 10px;"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 	<a href="https://www.twitch.tv/azeeztv" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/tCwsutyX"   target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:isaac.douglas08@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isaacdouglas" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://pt.stackoverflow.com/users/262574/isaac-douglas"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/7cv27iu30ykxupb4nui2gl7d3?si=53900e9013684360"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://instagram.com/eiazeez" style="padding-left: 10px;">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+ 	<a href="https://www.twitch.tv/azeeztv">
+    <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+  </a>
+  <a href="https://discord.gg/tCwsutyX">
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a> 
+  <a href="mailto:isaac.douglas08@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/isaacdouglas">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://pt.stackoverflow.com/users/262574/isaac-douglas">
+    <img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/7cv27iu30ykxupb4nui2gl7d3?si=53900e9013684360">
+    <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
 
 
 ![snake gif](https://github.com/eiazeez/eiazeez/blob/output/github-contribution-grid-snake.svg)
