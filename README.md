@@ -6,6 +6,7 @@
 </div>
 
 <div align="center" style="display: inline_block;"><br>
+  <img align="center" alt="Cypress"  height="30" width="40" src="https://code.iconify.design/2/2.2.1/iconify.min.js">
   <img align="center" alt="Js"       height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
