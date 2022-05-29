@@ -1,5 +1,6 @@
-![Pixel Art Gallery](https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif" alt="animated" />
+</p>
 
 - ## Oiiie, meu nome é Isaac Douglas, mas pode me chamar de Azeez haha!
 <div align="center">
@@ -16,7 +17,6 @@
   <img align="center" alt="CSS"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
 </div>
-
 ##
   
   <div align="center">
