@@ -19,7 +19,7 @@
 
 </div>
   
-- ## Onde me encontrar? Segue ae:
+##
 
   <div align="center">
   <a href="https://instagram.com/eiazeez" target="_blank">
