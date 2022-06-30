@@ -28,7 +28,7 @@
  	<a href="https://www.twitch.tv/azeeztv">
     <img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
-  <a href="https://discord.gg/tCwsutyX">
+  <a href="https://discord.gg/CPprRGqDFP">
     <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
   <a href="mailto:isaac.douglas08@gmail.com">
