@@ -8,15 +8,27 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eiazeez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiazeez&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+# Algumas coisas que pode encontrar por aqui. 👇
+  
+ - ### Automações em Cypress  <img align="top" alt="Cypress" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png"> 
+  
+ - ### Automações em Selenium <img align="top" alt="Selenium" height="30" width="30" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">   
+  
+ - ### Automações em Appium <img align="top" alt="Appium" height="30" width="30" src="https://static-00.iconduck.com/assets.00/appium-icon-2044x2048-8eq3vjix.png">
+  
+ - ### Linguagem Gherkin  <img align="top" alt="Cucumber" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png">
+  
+##  
 
 <div align="center" style="display: inline_block;"><br>
-  <img align="center" alt="Cypress" height="40" width="40" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4">
-  <img align="center" alt="Js"       height="33" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Selenium" height="33" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="HTML"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS"      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java"     height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-
+  <img align="center" alt="Js"       height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Java"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="NodeJs"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <img align="center" alt="HTML"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img align="center" alt="CSS"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
+  <img align="center" alt="Mongodb"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+  <img align="center" alt="MySQL"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 </div>
   
 ##
