@@ -27,17 +27,6 @@
  
 </div> 
   
-# Algumas coisas que pode encontrar por aqui. 👇
-  
- - ### Automações em Cypress  <img align="top" alt="Cypress" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png"> 
-  
- - ### Automações em Selenium <img align="top" alt="Selenium" height="30" width="30" src="https://avatars0.githubusercontent.com/u/983927?v=3&s=400">   
-  
- - ### Automações em Appium <img align="top" alt="Appium" height="30" width="30" src="https://static-00.iconduck.com/assets.00/appium-icon-2044x2048-8eq3vjix.png">
-  
- - ### Linguagem Gherkin  <img align="top" alt="Cucumber" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png">
-  
-##  
 
 <div align="center" style="display: inline_block;"><br>
   <img align="center" alt="Js"       height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
