@@ -37,12 +37,12 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="NTT" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="NTT" src="https://github.com/eiazeez/eiazeez/assets/92765887/d6b7afc0-f3e9-435d-9008-48dbdcea91bf"/>](https://br.nttdata.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Test Analyst/QA PL** \
+[**NTT DATA**](https://br.nttdata.com/) • Full-time \
+Technologies and tools: `Python`, `Appium`, `Robot`, `JavaScript`, `Postman`, `Cypress`,\
+Featured projects: Secrets \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Avanz" src="https://github.com/eiazeez/eiazeez/assets/92765887/3fcdd1f2-1cdc-486b-bb95-995eeb903dab"/>](https://www.avanz.com.br/)
@@ -50,6 +50,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 **Test Analyst/QA PL** \
 [**Avanz**](https://rocketseat.com.br/) • Full-time • **6m** \
 Technologies and tools: `JavaScript`, `TypeScript`, `Java`, `Cypress`, `Playwright`, `Postman`, `OracleDB` \
+Featured projects: Secrets \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Codeby" src="https://github.com/eiazeez/eiazeez/assets/92765887/9e568baa-4ab1-4dfe-8ac4-09ef328e0d39"/>](https://codeby.global/)
