@@ -2,12 +2,30 @@
   <img src="https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif" alt="animated" />
 </p>
 
-- ## Oiiie, meu nome é Isaac Douglas, mas pode me chamar de Azeez haha!
+##
+
+### > Welcome to my github
+
+##
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Overview&message=EIAzeez&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+</p>
+
+<p align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eiazeez&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&bg_color=f8efd4&title_color=783c00&text_color=af552e" />
+</a>
+</p>
+
+
+##
+
 <div align="center">
   <a href="https://github.com/eiazeez">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eiazeez&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiazeez&layout=compact&langs_count=7&theme=radical"/>
-</div>
+ 
+</div> 
   
 # Algumas coisas que pode encontrar por aqui. 👇
   
