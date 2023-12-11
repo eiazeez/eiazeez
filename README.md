@@ -48,7 +48,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 [<img align="left" height="94px" width="94px" alt="Avanz" src="https://github.com/eiazeez/eiazeez/assets/92765887/3fcdd1f2-1cdc-486b-bb95-995eeb903dab"/>](https://www.avanz.com.br/)
 
 **Test Analyst/QA PL** \
-[**Avanz**](https://rocketseat.com.br/) • Contract \
+[**Avanz**](https://rocketseat.com.br/) • Full-time • **6m** \
 Technologies and tools: `JavaScript`, `TypeScript`, `Java`, `Cypress`, `Playwright`, `Postman`, `OracleDB` \
 <br/>
 
