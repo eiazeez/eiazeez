@@ -33,9 +33,9 @@
   
 ##
 
-### Experiência de trabalho
+### Work experience
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="NTT" src="https://github.com/eiazeez/eiazeez/assets/92765887/d6b7afc0-f3e9-435d-9008-48dbdcea91bf"/>](https://br.nttdata.com/)
 
@@ -62,7 +62,7 @@ Featured projects: [Canali](https://www.canali.com/), [WaaW by Alok](https://waa
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/isaacdouglas/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Please, find me on [LinkedIn](https://www.linkedin.com/in/isaacdouglas/) for my detailed experience of work, education and certification.
 
 ##
 
