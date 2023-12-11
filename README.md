@@ -45,17 +45,16 @@ Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Avanz" src="https://github.com/eiazeez/eiazeez/assets/92765887/3fcdd1f2-1cdc-486b-bb95-995eeb903dab"/>](https://www.avanz.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**Test Analyst/QA PL** \
+[**Avanz**](https://rocketseat.com.br/) • Contract \
+Technologies and tools: `JavaScript`, `TypeScript`, `Java`, `Cypress`, `Playwright`, `Postman`, `OracleDB` \
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Codeby" src="https://github.com/eiazeez/eiazeez/assets/92765887/9e568baa-4ab1-4dfe-8ac4-09ef328e0d39"/>](https://codeby.global/)
 
-**Test Analyst/QA JR. III** \
+**Test Analyst/QA JR III** \
 [**Codeby**](https://codeby.global/) • Full-time • **1y 4m** \
 Technologies and tools: `Cypress`, `Cypress IO`, `JavaScript`, `VTex` \
 Featured projects: [Canali](https://www.canali.com/), [WaaW by Alok](https://waaw.com.br/), [Usaflex](https://www.usaflex.com.br/)
