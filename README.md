@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 💜 Hello, my nickname is <strong>Azeez! 👋</strong>
+# 💜 Hello, my name is <strong>Isaac! 👋</strong>
 
 > I'm a Test Analyst/QA
 
