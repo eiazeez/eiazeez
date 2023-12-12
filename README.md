@@ -4,7 +4,53 @@
 
 ##
 
-### > Welcome to my github
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+## 💜 Hello, my name is <strong>Azeez!</strong>
+
+> Here's an introduction about me
+
+🔭 I have always been curious about technology, and today I pursue my career in search of improving the quality of things.
+
+💬 Here you will find more about me, my career, and a little about what I am studying and working on.
+
+<h3>My Skills</h3>
+
+**Applications and database**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-maker?style=flat&logo=typescript&logoColor=%233178C6&color=333333)
+![Python](https://img.shields.io/badge/Python-maker?style=flat&logo=python&logoColor=%233776AB&color=333333)
+![MongoDB](https://img.shields.io/badge/MongoDB-maker?style=flat&logo=mongodb&logoColor=%2347A248&color=333333)
+
+**Automation Framework**
+
+![Cypress](https://img.shields.io/badge/Cypress-maker?style=flat&logo=cypress&color=333333)
+![Selenium](https://img.shields.io/badge/Selenium-maker?style=flat&logo=selenium&color=333333)
+![Playwright](https://img.shields.io/badge/Playwright-maker?style=flat&logo=playwright&color=333333)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-maker?style=flat&logo=robotframework&color=333333)
+![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-maker?style=flat&logo=androidstudio&color=333333)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-maker?style=flat&logo=gitlab&logoColor=%23FC6D26&color=333333)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 ##
 
