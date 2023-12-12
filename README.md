@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif" alt="animated" />
-</p>
-
 ##
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -127,9 +123,13 @@ Please, find me on [LinkedIn](https://www.linkedin.com/in/isaacdouglas/) for my 
   </a>
   <a href="https://open.spotify.com/user/7cv27iu30ykxupb4nui2gl7d3?si=53900e9013684360">
     <img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
-  </a> 
-
-![snake gif](https://github.com/eiazeez/eiazeez/blob/output/github-contribution-grid-snake.svg)
- 
+  </a>  
 </div>
 
+#
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif" alt="animated" />
+</p>
+
+#
