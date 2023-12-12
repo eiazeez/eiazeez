@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-# 💜 Hello, my name is <strong>Azeez! 👋</strong>
+# 💜 Hello, my nickname is <strong>Azeez! 👋</strong>
 
-> Here's an introduction about me
+> I'm a Test Analyst/QA
 
 🔭 I have always been curious about technology, and today I pursue my career in search of improving the quality of things.
 
