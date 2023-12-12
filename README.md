@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Hello, my name is <strong>Azeez!</strong>
+# 💜 Hello, my name is <strong>Azeez! 👋</strong>
 
 > Here's an introduction about me
 
@@ -14,7 +14,7 @@
 
 💬 Here you will find more about me, my career, and a little about what I am studying and working on.
 
-<h3>My Skills</h3>
+## 🚀 My Skills
 
 **Applications and database**
 
@@ -52,7 +52,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-##
+## ⭐ Infos about my GitHub account
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=EIAzeez&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
