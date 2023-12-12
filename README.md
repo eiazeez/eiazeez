@@ -72,19 +72,6 @@
   <a href="https://github.com/eiazeez">
  
 </div> 
-  
-
-<div align="center" style="display: inline_block;"><br>
-  <img align="center" alt="Js"       height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Java"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-  <img align="center" alt="NodeJs"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="HTML"     height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img align="center" alt="CSS"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
-  <img align="center" alt="Mongodb"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
-  <img align="center" alt="MySQL"      height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-</div>
-  
-##
 
 ### Work experience
 
