@@ -28,7 +28,7 @@
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-maker?style=flat&logo=robotframework&color=333333)
 ![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-maker?style=flat&logo=androidstudio&color=333333)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -42,7 +42,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
