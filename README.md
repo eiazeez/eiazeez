@@ -126,8 +126,8 @@ Please, find me on [LinkedIn](https://www.linkedin.com/in/isaacdouglas/) for my 
   </a>  
 </div>
 
-#
 
+#
 <p align="center">
   <img src="https://user-images.githubusercontent.com/92765887/170848908-b02750d1-8baa-4833-9741-07f55145b086.gif" alt="animated" />
 </p>
