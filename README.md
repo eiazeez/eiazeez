@@ -14,7 +14,7 @@
 
 **Applications and database**
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/Java-path?style=flat&logo=coffeescript&color=333333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-maker?style=flat&logo=typescript&logoColor=%233178C6&color=333333)
 ![Python](https://img.shields.io/badge/Python-maker?style=flat&logo=python&logoColor=%233776AB&color=333333)
