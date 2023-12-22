@@ -27,6 +27,8 @@
 ![Playwright](https://img.shields.io/badge/Playwright-maker?style=flat&logo=playwright&color=333333)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-maker?style=flat&logo=robotframework&color=333333)
 ![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-maker?style=flat&logo=androidstudio&color=333333)
+![Cucumber](https://img.shields.io/badge/Cucumber-pat?style=flat&logo=cucumber&labelColor=333333&color=333333)
+
 
 **Utilities**
 
