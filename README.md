@@ -14,41 +14,43 @@
 
 **Applications and database**
 
-![Java](https://img.shields.io/badge/Java-path?style=flat&logo=coffeescript&color=333333)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-maker?style=flat&logo=typescript&logoColor=%233178C6&color=333333)
-![Python](https://img.shields.io/badge/Python-maker?style=flat&logo=python&logoColor=%233776AB&color=333333)
-![MongoDB](https://img.shields.io/badge/MongoDB-maker?style=flat&logo=mongodb&logoColor=%2347A248&color=333333)
+> ![Java](https://img.shields.io/badge/JAVA-f8efd4?style=for-the-badge&logo=coffeescript&logoColor=%23F45E3F)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-f8efd4?style=for-the-badge&logo=javascript&logoColor=f1e05a)
+![typescript](https://img.shields.io/badge/TYPESCRIPT-f8efd4?style=for-the-badge&logo=typescript&logoColor=%233178C6)
+![Python](https://img.shields.io/badge/PYTHON-f8efd4?style=for-the-badge&logo=Python&logoColor=%233776AB)
+![mongodb](https://img.shields.io/badge/mongo%20db-f8efd4?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
 
 **Automation Framework**
 
-![Cypress](https://img.shields.io/badge/Cypress-maker?style=flat&logo=cypress&color=333333)
-![Selenium](https://img.shields.io/badge/Selenium-maker?style=flat&logo=selenium&color=333333)
-![Playwright](https://img.shields.io/badge/Playwright-maker?style=flat&logo=playwright&color=333333)
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-maker?style=flat&logo=robotframework&color=333333)
-![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-maker?style=flat&logo=androidstudio&color=333333)
-![Cucumber](https://img.shields.io/badge/Cucumber-pat?style=flat&logo=cucumber&labelColor=333333&color=333333)
+> ![Cypress](https://img.shields.io/badge/cypress-f8efd4?style=for-the-badge&logo=cypress&logoColor=%2369D3A7)
+![Selenium](https://img.shields.io/badge/selenium-f8efd4?style=for-the-badge&logo=selenium&logoColor=%2343B02A)
+![Playwright](https://img.shields.io/badge/playwright-f8efd4?style=for-the-badge&logo=playwright&logoColor=%232EAD33)
+![Robot Framework](https://img.shields.io/badge/robot%20framework-f8efd4?style=for-the-badge&logo=robotframework&logoColor=%23000000)
+![Android Studio](https://img.shields.io/badge/Appium%20%2B%20Android%20Studio-f8efd4?style=for-the-badge&logo=androidstudio&logoColor=%233DDC84)
+![Cucumber](https://img.shields.io/badge/cucumber-f8efd4?style=for-the-badge&logo=cucumber&logoColor=%2323D96C)
 
 
 **Utilities**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+> ![Insomnia](https://img.shields.io/badge/insomnia-f8efd4?style=for-the-badge&logo=insomnia&logoColor=%234000BF)
+![Postman](https://img.shields.io/badge/postman-f8efd4?style=for-the-badge&logo=postman&logoColor=%23FF6C37)
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-maker?style=flat&logo=gitlab&logoColor=%23FC6D26&color=333333)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+> ![Git](https://img.shields.io/badge/git-f8efd4?style=for-the-badge&logo=git&logoColor=%23F05032)
+![GitHub](https://img.shields.io/badge/github-f8efd4?style=for-the-badge&logo=github&logoColor=%23181717)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-f8efd4?style=for-the-badge&logo=githubactions&logoColor=%232088FF)
+![GitLab](https://img.shields.io/badge/gitlab-f8efd4?style=for-the-badge&logo=gitlab&logoColor=%23FC6D26)
+![Bitbucket](https://img.shields.io/badge/bitbucket-f8efd4?style=for-the-badge&logo=bitbucket&logoColor=%230052CC)
+![Docker](https://img.shields.io/badge/Docker-f8efd4?style=for-the-badge&logo=docker&logoColor=%232496ED)
+![Azure Pipeline](https://img.shields.io/badge/azure%20pipelines-f8efd4?style=for-the-badge&logo=azurepipelines&logoColor=%232560E0)
 
 
 **Development Tools**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+> ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-f8efd4?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)
+![Figma](https://img.shields.io/badge/figma-f8efd4?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
+![Adobe XD](https://img.shields.io/badge/adobe%20xd-f8efd4?style=for-the-badge&logo=adobexd&logoColor=%23FF61F6)
 
 ## ⭐ Infos about my GitHub account
 
