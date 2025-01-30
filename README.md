@@ -63,6 +63,14 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiazeez&layout=compact&hide=html&langs_count=20&card_width=320&bg_color=f8efd4&title_color=783c00&text_color=af552e" />
 </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eiazeez/eiazeez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eiazeez/eiazeez/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/eiazeez/eiazeez/output/github-snake.svg" />
+</picture>
+
+  
 </p>
 
 
