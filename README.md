@@ -6,7 +6,7 @@
 
 > I'm a Test Analyst/QA
 
-🔭 I have always been curious about technology, and today I pursue my career in search of improving the quality of things.
+🔭 I have always been curious about technology, and today my main focus is on improving the user's experience, transforming platforms to be easier and more engaging to the final consumer.
 
 💬 Here you will find more about me, my career, and a little about what I am studying and working on.
 
